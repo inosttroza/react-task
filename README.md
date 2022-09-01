@@ -1,5 +1,5 @@
 # react-task
-Ejemplo basico, desarrollado con react<br>
+Ejemplo basico, desarrollado con react y bootstrap<br>
 Fuente de datos archivo .js con datos<br>
 
 ## Instalación
